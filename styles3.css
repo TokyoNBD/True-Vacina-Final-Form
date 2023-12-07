@@ -1,9 +1,9 @@
 .cardMitos {
-    background-color: #ffffff;
+       background-color: #fff;
     border-radius: 15px;
-    padding: 30px;
-    margin: 220px;
-    position: relative;
-    top: -100px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 40px;
+}
     
 }
